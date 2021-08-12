@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prashant0706
 - 👀 I’m interested in web devlopment,django,python
-- 🌱 I’m currently learning everythin
+- 🌱 I’m currently learning everythinG
 - 💞️ I’m looking to collaborate on website and app devlopment
 - 📫 How to reach me email:- rprashant924@gmail.com
 
